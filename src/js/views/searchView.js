@@ -18,5 +18,9 @@ class SearchView {
     });
   }
 }
+const test_feauture = function () {
+  console.log('hello testing!!');
+};
+test_feauture();
 
 export default new SearchView();
